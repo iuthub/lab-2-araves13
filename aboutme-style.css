@@ -1,0 +1,32 @@
+body{
+	background-color: #add;
+}
+h1,h2{
+	color: crimson;
+	font-family: Georgia;
+	text-align: center;
+	font-weight: bold;
+}
+h1{
+	font-size: 25px;
+}
+h2{
+	font-size: 22px;
+}
+p{
+	font-size: 15px;
+	font-family: Verdana;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: green;
+}
+a:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+img{
+width:300px;
+height: 200px;
+}
